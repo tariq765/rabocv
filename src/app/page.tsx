@@ -165,7 +165,7 @@ export default function Home() {
             <section className="space-y-4">
               <h3 className="text-lg font-bold text-[#002d44] uppercase tracking-[0.2em] border-b-2 border-zinc-100 pb-1 inline-block">Professional Summary</h3>
               <p className="text-zinc-700 leading-relaxed text-[15px]">
-                Frontend and Full Stack Web Developer skilled in TypeScript, Next.js, Tailwind CSS, Python, FastAPI, MongoDB, and Neon PostgreSQL. Currently learning Artificial Intelligence and Agentic AI development. Passionate about building responsive, user-friendly web applications and continuously improving technical skills.
+                Frontend and Full Stack Web Developer skilled in TypeScript, Next.js, Tailwind CSS, Python, FastAPI, MongoDB, and Neon PostgreSQL. Specialized in building AI Assistants, RAG Chatbots, and AI Automation solutions. Currently advancing expertise in Artificial Intelligence and Agentic AI development to create intelligent, responsive, and user-friendly web applications.
               </p>
             </section>
 

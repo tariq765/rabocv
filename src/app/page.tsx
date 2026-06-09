@@ -19,14 +19,16 @@ export default function Home() {
         <aside className="w-full sm:w-[35%] bg-[#002d44] text-white p-8 flex flex-col space-y-10 relative">
           {/* Profile Picture */}
           <div className="relative z-10 self-center">
-            <div className="w-40 h-40 border-4 border-white overflow-hidden bg-zinc-800 flex items-center justify-center relative">
-               <Image 
-                 src="/profile.jpg" 
-                 alt="Tariq Asghar" 
-                 fill 
-                 className="object-cover"
-                 priority
-               />
+            <div className="w-40 h-40 bg-white [clip-path:polygon(30%_0%,70%_0%,100%_30%,100%_70%,70%_100%,30%_100%,0%_70%,0%_30%)] flex items-center justify-center relative">
+               <div className="w-[92%] h-[92%] overflow-hidden bg-zinc-800 [clip-path:polygon(30%_0%,70%_0%,100%_30%,100%_70%,70%_100%,30%_100%,0%_70%,0%_30%)] relative">
+                  <Image 
+                    src="/profile.jpg" 
+                    alt="Tariq Asghar" 
+                    fill 
+                    className="object-cover"
+                    priority
+                  />
+               </div>
             </div>
           </div>
 

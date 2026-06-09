@@ -181,10 +181,10 @@ export default function Home() {
                     <h4 className="font-bold text-[#002d44] text-lg">E-Commerce Website</h4>
                     <span className="text-sm font-semibold text-zinc-500">Full-Stack Development</span>
                   </div>
-                  <p className="text-sm italic text-zinc-500 mb-2">Next.js, TypeScript, FastAPI, MongoDB, PostgreSQL</p>
+                  <p className="text-sm italic text-zinc-500 mb-2">Next.js, TypeScript, FastAPI, Sanity CMS, Neon PostgreSQL</p>
                   <ul className="list-disc list-outside ml-4 text-sm text-zinc-700 space-y-1">
                     <li>Developed a comprehensive full-stack e-commerce application featuring robust user authentication and efficient product management.</li>
-                    <li>Integrated multiple database solutions including MongoDB for flexible data storage and Neon PostgreSQL for structured relations.</li>
+                    <li>Integrated professional content management using Sanity CMS and utilized Neon PostgreSQL for reliable, structured data relations.</li>
                   </ul>
                 </div>
 
